@@ -3,4 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="color_launch">#009688</color>
+    <color name="secondaryColor">#FF9800</color>
+    <color name="primaryLightColor">#74CAD5</color>
 </resources>
