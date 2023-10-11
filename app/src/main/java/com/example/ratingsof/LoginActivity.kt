@@ -25,7 +25,7 @@ class LoginActivity : AppCompatActivity() {
     }
 
     fun irASecondActivity(view: View) {
-        val intent = Intent(this, register::class.java)
+        val intent = Intent(this, activityFragment::class.java)
         startActivity(intent)
     }
 }
